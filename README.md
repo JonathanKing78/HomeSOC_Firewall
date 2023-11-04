@@ -1,6 +1,4 @@
-# HomeSOC/Firewall
-Hi my name is Jonathan King,I am a 3rd Year Computer Science Major at the University of The West Indies Cavehill Campus.
+# Project Description
+For this project I created a virtual router with a firewall in a Virtual Machine using Pfsense. I created a virtual network using my ISP as my WAN to access the internet and then I  created my own LAN with a custom IP which is protected by my firewall with its own custom rules.
 
-I have always had a interest in cybersecurity, and as I continued into my Computer Science journey my passion just kept on growing, so i decided to start my own self learning and experimenting it led to this project.
 
-This is my first official home SOC/Firewall project and it will detail the goals, steps to set up etc. to this project.
